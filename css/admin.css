@@ -1,0 +1,26 @@
+/* Admin Section */
+
+.iwp-field-wapper { display:block;margin: 20px 0 50px;  padding: 30px 20px; border: 1px solid #ddd;}
+.iwp-field-wapper:nth-child(even) {background: #e0e0e0;}
+.iwp-field-wapper:nth-child(odd) {background: #FFF;}
+
+.twp-duplicate-btn,
+.twp-del-btn { 
+    background-color: #dd3333;
+    color: #fff;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+    border-radius: 5px;
+	margin-bottom: 10px;
+}
+.twp-duplicate-btn {  background-color: #1f1c44; }
+
+.twp-duplicate-btn:visited,
+.twp-duplicate-btn:visited,
+.twp-duplicate-btn:active,
+.twp-duplicate-btn:focus,
+.twp-duplicate-btn:hover { color:#fff !important;}
+
+
+.twp-del-btn:hover { background-color: #dd0f0f;color:#fff;}
